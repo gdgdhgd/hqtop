@@ -1,1 +1,1 @@
-# hqtop
+# HQ-Trivia-Lifebot
